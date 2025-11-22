@@ -80,13 +80,13 @@ export const Hero: React.FC = () => {
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
               <a 
-                href="https://pay.cakto.com.br/zifxi8z_661401" 
+                href="https://pay.cakto.com.br/t9798gu_661456" 
                 className="px-8 py-4 rounded-2xl bg-tea-blue text-white font-bold text-lg shadow-xl shadow-blue-200 hover:bg-blue-700 hover:-translate-y-1 transition-all text-center"
               >
-                Assinar por R$ 19,90/mês
+                Assinar por R$ 34,90/mês
               </a>
               <a 
-                href="https://pay.cakto.com.br/3euxx7r_661420" 
+                href="https://pay.cakto.com.br/hhg4gri_661453" 
                 className="px-8 py-4 rounded-2xl bg-white border-2 border-tea-green text-tea-green font-bold text-lg hover:bg-tea-green hover:text-white transition-all text-center"
               >
                 Plano Anual (Economize)

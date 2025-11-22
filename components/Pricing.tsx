@@ -19,7 +19,7 @@ export const Pricing: React.FC = () => {
             Apoio acessível para TODAS as mães.
           </h2>
           <p className="text-gray-600">
-            Menos de R$ 0,70 por dia para transformar o desenvolvimento do seu filho.
+            Menos de R$ 1,20 por dia para transformar o desenvolvimento do seu filho.
           </p>
         </div>
 
@@ -30,7 +30,7 @@ export const Pricing: React.FC = () => {
             <h3 className="text-xl font-bold text-gray-500 mb-2">Plano Mensal</h3>
             <div className="flex items-baseline gap-1 mb-6">
               <span className="text-sm text-gray-500">R$</span>
-              <span className="text-4xl font-bold text-tea-text">19,90</span>
+              <span className="text-4xl font-bold text-tea-text">34,90</span>
               <span className="text-gray-500">/mês</span>
             </div>
             <ul className="mb-8">
@@ -39,7 +39,7 @@ export const Pricing: React.FC = () => {
               <PlanFeature text="Cancelamento fácil" />
             </ul>
             <a 
-              href="https://pay.cakto.com.br/zifxi8z_661401" 
+              href="https://pay.cakto.com.br/t9798gu_661456" 
               className="block w-full py-3 rounded-xl border-2 border-tea-blue text-tea-blue font-bold hover:bg-tea-blue hover:text-white transition-colors text-center"
             >
               Assinar Mensal
@@ -54,7 +54,7 @@ export const Pricing: React.FC = () => {
             <h3 className="text-xl font-bold text-tea-green mb-2">Plano Anual</h3>
             <div className="flex items-baseline gap-1 mb-2">
               <span className="text-sm text-gray-500">R$</span>
-              <span className="text-5xl font-bold text-tea-text">247</span>
+              <span className="text-5xl font-bold text-tea-text">347</span>
               <span className="text-gray-500">/ano</span>
             </div>
             <p className="text-green-600 text-sm font-bold mb-6">Economize 2 meses de assinatura</p>
@@ -71,7 +71,7 @@ export const Pricing: React.FC = () => {
               </li>
             </ul>
             <a 
-              href="https://pay.cakto.com.br/3euxx7r_661420" 
+              href="https://pay.cakto.com.br/hhg4gri_661453" 
               className="block w-full py-4 rounded-xl bg-tea-green text-white font-bold text-lg shadow-lg hover:bg-green-600 transition-all hover:scale-[1.02] text-center"
             >
               Quero Economizar Agora
