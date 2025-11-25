@@ -15,13 +15,20 @@
             },
             colors: {
               tea: {
-                blue: '#2563EB', // Royal Blue
+                blue: '#60A5FA', // Softer Blue (Blue-400)
+                darkBlue: '#3B82F6', // Blue-500
                 lightBlue: '#EFF6FF',
-                yellow: '#FACC15', // Sunny Yellow
-                red: '#EF4444', // Alert Red
-                green: '#10B981', // Soft Green
-                text: '#1E293B', // Slate 800
+                yellow: '#FCD34D', // Softer Yellow (Amber-300)
+                red: '#F87171', // Softer Red (Red-400)
+                green: '#34D399', // Softer Green (Emerald-400)
+                softGreen: '#D1FAE5',
+                text: '#334155', // Slate 700 - Softer than black
+                gray: '#F1F5F9', // Slate 100 - Main background
               }
+            },
+            borderRadius: {
+              '4xl': '2rem',
+              '5xl': '2.5rem',
             }
           }
         }
@@ -38,7 +45,7 @@
 }
 </script>
 </head>
-  <body>
+  <body class="bg-tea-gray text-tea-text">
     <div id="root"></div>
   </body>
 </html>
