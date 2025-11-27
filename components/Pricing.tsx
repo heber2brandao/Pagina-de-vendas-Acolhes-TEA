@@ -29,7 +29,7 @@ export const Pricing: React.FC = () => {
           <div className="bg-white p-8 md:p-10 rounded-4xl shadow-sm border border-slate-100 flex flex-col items-center text-center">
             <h3 className="text-lg font-bold text-slate-400 mb-6 uppercase tracking-wider">Mensal</h3>
             <div className="mb-8">
-              <span className="text-4xl md:text-5xl font-extrabold text-tea-text">R$ 34,90</span>
+              <span className="text-4xl md:text-5xl font-extrabold text-tea-text">R$ 19,90</span>
             </div>
             <ul className="mb-8 text-left w-full max-w-xs space-y-2">
               <PlanFeature text="Acesso total às atividades" />
@@ -37,7 +37,7 @@ export const Pricing: React.FC = () => {
               <PlanFeature text="Sem fidelidade" />
             </ul>
             <a 
-              href="https://pay.cakto.com.br/t9798gu_661456" 
+              href="https://pay.cakto.com.br/zifxi8z_661401" 
               className="w-full py-4 rounded-2xl bg-slate-100 text-slate-700 font-bold hover:bg-slate-200 transition-colors"
             >
               Assinar Mensal
@@ -49,7 +49,7 @@ export const Pricing: React.FC = () => {
             <div className="absolute top-0 w-full h-2 bg-tea-green"></div>
             <h3 className="text-lg font-bold text-tea-green mb-6 uppercase tracking-wider">Anual (Melhor Valor)</h3>
             <div className="mb-2">
-              <span className="text-4xl md:text-5xl font-extrabold text-tea-text">R$ 347</span>
+              <span className="text-4xl md:text-5xl font-extrabold text-tea-text">R$ 197</span>
             </div>
             <p className="text-green-500 text-sm font-bold mb-8 bg-green-50 px-3 py-1 rounded-full">Economia de 2 meses</p>
             

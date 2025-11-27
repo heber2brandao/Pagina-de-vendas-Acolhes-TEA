@@ -56,10 +56,10 @@ export const Header: React.FC = () => {
           <a href="#pricing" className="text-lg font-semibold text-center py-2" onClick={() => setIsMenuOpen(false)}>Planos</a>
           <a href="#how-it-works" className="text-lg font-semibold text-center py-2" onClick={() => setIsMenuOpen(false)}>Como funciona</a>
           <a 
-            href="https://pay.cakto.com.br/t9798gu_661456"
+            href="https://pay.cakto.com.br/zifxi8z_661401"
             className="w-full py-3 rounded-xl bg-tea-blue text-white font-bold text-center block"
           >
-            Assinar por R$ 34,90/mês
+            Assinar por R$ 19,90/mês
           </a>
         </div>
       )}

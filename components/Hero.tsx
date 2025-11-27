@@ -69,7 +69,7 @@ export const Hero: React.FC = () => {
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
               <a 
-                href="https://pay.cakto.com.br/t9798gu_661456" 
+                href="https://pay.cakto.com.br/zifxi8z_661401" 
                 className="px-8 py-4 rounded-2xl bg-tea-darkBlue text-white font-bold text-lg shadow-lg shadow-blue-200 hover:bg-blue-600 hover:shadow-blue-300 transition-all text-center transform hover:-translate-y-1"
               >
                 Começar Hoje
